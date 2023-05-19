@@ -19,8 +19,8 @@
 #endif
 
 //WIFI setup
-const char* ssid = "Hunter X Hunter IRC Fanclub";
-const char* password = "#AntArc!";
+const char* ssid = "StudioFluora_2G";
+const char* password = "studio!!!fluora111";
 
 SimpleTimer timer;
 bool otaHold = false;
