@@ -1,7 +1,6 @@
 # TDWorkshop2023
 
-## PowerPoint
-[LINK](https://docs.google.com/presentation/d/1palFAp0ffrCsetf4LcXXmN7Na4BmVPLbPId9OUTVW-c/edit#slide=id.g247c5b821bd_0_213)
+
 
 ## Software Download
 [Touchdesigner](https://derivative.ca/download)
