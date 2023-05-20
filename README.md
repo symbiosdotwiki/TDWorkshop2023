@@ -26,7 +26,7 @@
 
 [ARDUINO BOARD MANAGER](https://github.com/espressif/arduino-esp32)
 
-[ARDUINO BOARD MANAGER](
+[BOARD DRIVER UART](
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
 ## PowerPoint
