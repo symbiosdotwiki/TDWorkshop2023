@@ -24,7 +24,10 @@
 
 [SETUP](https://learn.adafruit.com/adafruit-metro-esp32-s2/arduino-ide-setup-2)
 
-[BOARD DRIVERS](https://github.com/espressif/arduino-esp32)
+[ARDUINO BOARD MANAGER](https://github.com/espressif/arduino-esp32)
+
+[ARDUINO BOARD MANAGER](
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
 ## PowerPoint
 [PURCHASE](https://www.reichelt.com/de/en/developer-boards-neopixel-ring-with-12-ws2812-debo-led-np12-p235468.html)
