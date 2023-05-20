@@ -27,7 +27,7 @@
 [ARDUINO BOARD MANAGER](https://github.com/espressif/arduino-esp32)
 
 [BOARD DRIVER UART](
-https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 
 ## PowerPoint
 [PURCHASE](https://www.reichelt.com/de/en/developer-boards-neopixel-ring-with-12-ws2812-debo-led-np12-p235468.html)
