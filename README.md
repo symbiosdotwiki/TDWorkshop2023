@@ -10,7 +10,7 @@
 [Arduino](https://www.arduino.cc/en/software)
 
 ## Libraries
-[LINK](https://derivative.ca/UserGuide/TDAbleton)
+[TDAbleton](https://derivative.ca/UserGuide/TDAbleton)
 
 [OSC](https://github.com/CNMAT/OSC)
 
